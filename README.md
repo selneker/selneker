@@ -309,5 +309,5 @@
   ·
   <a href="https://github.com/selneker?tab=repositories">Projects</a>
   ·
-  <a href="mailto:selneker@outlook.com">Contact</a>
+  <a href="mailto:selneker@gmail.com">Contact</a>
 </p>
