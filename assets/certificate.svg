@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1130" font-family="Helvetica, Arial, sans-serif">
 <rect width="800" height="1130" fill="#161817"/>
-<text x="40" y="70" fill="#fff" font-size="13">Ministry of Economic Development</text>
-<text x="40" y="86" fill="#fff" font-size="13">of the Russian Federation</text>
+<text x="40" y="70" fill="#fff" font-size="13">Personal assist</text>
+<text x="40" y="86" fill="#fff" font-size="13">of my self</text>
 <text x="300" y="72" fill="#fff" font-size="26" font-weight="700">digital</text>
 <text x="300" y="100" fill="#fff" font-size="26" font-weight="700">breakthrough</text>
 <path d="M482 96 h20 v-38 m0 0 l-7 9 m7 -9 l7 9" stroke="#fff" stroke-width="4" fill="none"/>
 <rect x="505" y="62" width="120" height="40" rx="20" fill="none" stroke="#00E676" stroke-width="3"/>
 <text x="520" y="89" fill="#fff" font-size="18" font-weight="700">season: AI</text>
 <g transform="translate(650,52) skewX(-12)">
-<rect x="0" y="0" width="110" height="20" fill="#fff"/><text x="6" y="15" fill="#161817" font-size="13" font-weight="700">RUSSIA —</text>
+<rect x="0" y="0" width="110" height="20" fill="#fff"/><text x="6" y="15" fill="#161817" font-size="13" font-weight="700">MADAGASCAR —</text>
 <rect x="-6" y="22" width="110" height="20" fill="#2F7BD9"/><text x="0" y="37" fill="#fff" font-size="13" font-weight="700">LAND OF</text>
-<rect x="-12" y="44" width="140" height="20" fill="#D94F7B"/><text x="-6" y="59" fill="#fff" font-size="13" font-weight="700">OPPORTUNITIES</text>
+<rect x="-12" y="44" width="140" height="20" fill="#D94F7B"/><text x="-6" y="59" fill="#fff" font-size="13" font-weight="700">****</text>
 </g>
 <!-- pixel sprites: heart, dino, gear, invader -->
 <path fill="#00E676" d="M52 170h24v12h-24z M88 170h24v12h-24z M40 182h84v12h-84z M40 194h84v12h-84z M52 206h60v12h-60z M64 218h36v12h-36z M76 230h12v12h-12z M80 400h48v12h-48z M80 412h12v12h-12z M104 412h24v12h-24z M80 424h48v12h-48z M80 436h36v12h-36z M20 448h12v12h-12z M80 448h48v12h-48z M20 460h12v12h-12z M80 460h48v12h-48z M20 472h24v12h-24z M80 472h48v12h-48z M32 484h84v12h-84z M44 496h60v12h-60z M44 508h24v12h-24z M80 508h24v12h-24z M44 520h24v12h-24z M144 560h36v12h-36z M132 572h60v12h-60z M120 584h24v12h-24z M156 584h12v12h-12z M180 584h24v12h-24z M120 596h24v12h-24z M180 596h24v12h-24z M120 608h24v12h-24z M156 608h12v12h-12z M180 608h24v12h-24z M132 620h60v12h-60z M144 632h36v12h-36z M54 760h12v12h-12z M126 760h12v12h-12z M66 772h12v12h-12z M114 772h12v12h-12z M54 784h84v12h-84z M42 796h24v12h-24z M78 796h36v12h-36z M138 796h24v12h-24z M30 808h132v12h-132z M30 820h12v12h-12z M54 820h84v12h-84z M150 820h12v12h-12z M30 832h12v12h-12z M54 832h12v12h-12z M126 832h12v12h-12z M150 832h12v12h-12z M66 844h24v12h-24z M102 844h24v12h-24z"/>
@@ -19,15 +19,15 @@
 <!-- ✏️ REPLACE: subtitle, name -->
 <text x="300" y="360" fill="#fff" font-size="26">Participant certificate of the district</text>
 <text x="300" y="392" fill="#fff" font-size="26">hackathon «Digital Breakthrough. Season:</text>
-<text x="300" y="424" fill="#fff" font-size="26">Artificial Intelligence» (2024)</text>
-<text x="300" y="500" fill="#00E676" font-size="58">Dmitry Pronin</text>
+<text x="300" y="424" fill="#fff" font-size="26">Artificial Intelligence» (2025)</text>
+<text x="300" y="500" fill="#00E676" font-size="58">Selneker Dino</text>
 <text x="300" y="560" fill="#00E676" font-size="58">@selneker</text>
 <text x="300" y="700" fill="#fff" font-size="20">General Director of ANO</text>
-<text x="300" y="726" fill="#fff" font-size="20">«Russia — Land of Opportunities»</text>
-<text x="300" y="766" fill="#fff" font-size="20" font-weight="700">A.G. Komissarov</text>
+<text x="300" y="726" fill="#fff" font-size="20">«Mada — Land of ***»</text>
+<text x="300" y="766" fill="#fff" font-size="20" font-weight="700">brad777</text>
 <path d="M470 780 C 510 750 540 770 570 755 C 600 742 620 760 650 748 C 680 736 700 752 730 740 M470 780 C 465 790 460 795 452 798" stroke="#7B8CFF" stroke-width="2.5" fill="none"/>
 <text x="300" y="1000" fill="#fff" font-size="26" font-weight="700">25.10.2024 - 27.10.2024</text>
-<text x="300" y="1032" fill="#fff" font-size="22">Volga Federal District</text>
+<text x="300" y="1032" fill="#fff" font-size="22">Brad workspace</text>
 <!-- decorative QR -->
 <path fill="#fff" d="M610 950h70v10h-70z M610 960h10v10h-10z M670 960h10v10h-10z M610 970h10v10h-10z M630 970h30v10h-30z M670 970h10v10h-10z M610 980h10v10h-10z M630 980h30v10h-30z M670 980h10v10h-10z M610 990h10v10h-10z M630 990h30v10h-30z M670 990h10v10h-10z M610 1000h10v10h-10z M670 1000h10v10h-10z M610 1010h70v10h-70z M700 950h70v10h-70z M700 960h10v10h-10z M760 960h10v10h-10z M700 970h10v10h-10z M720 970h30v10h-30z M760 970h10v10h-10z M700 980h10v10h-10z M720 980h30v10h-30z M760 980h10v10h-10z M700 990h10v10h-10z M720 990h30v10h-30z M760 990h10v10h-10z M700 1000h10v10h-10z M760 1000h10v10h-10z M700 1010h70v10h-70z M610 1040h70v10h-70z M610 1050h10v10h-10z M670 1050h10v10h-10z M610 1060h10v10h-10z M630 1060h30v10h-30z M670 1060h10v10h-10z M610 1070h10v10h-10z M630 1070h30v10h-30z M670 1070h10v10h-10z M610 1080h10v10h-10z M630 1080h30v10h-30z M670 1080h10v10h-10z M610 1090h10v10h-10z M670 1090h10v10h-10z M610 1100h70v10h-70z M620 1020h10v10h-10z M650 1020h10v10h-10z M690 1040h10v10h-10z M710 1040h10v10h-10z M730 1050h10v10h-10z M700 1060h10v10h-10z M750 1070h10v10h-10z M690 1080h10v10h-10z M720 1090h10v10h-10z M760 1090h10v10h-10z M700 1100h10v10h-10z M740 1100h10v10h-10z"/>
 </svg>
