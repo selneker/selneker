@@ -1,397 +1,351 @@
-<svg viewBox="0 0 1200 1300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Certificate of participation in Digital Future. Season: Artificial Intelligence">
+<svg width="1200" height="1300" viewBox="0 0 1200 1300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selneker portfolio in a dark pixel style">
   <defs>
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#4efb72" flood-opacity="0.85"/>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#4efb72" flood-opacity="0.9"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="1300" fill="#111418"/>
+  <rect width="1200" height="1300" fill="#101519"/>
 
-  <g opacity="0.95" filter="url(#softGlow)">
-    <g fill="#4efb72">
-      <rect x="62" y="250" width="18" height="18"/>
-      <rect x="80" y="250" width="18" height="18"/>
-      <rect x="98" y="250" width="18" height="18"/>
-      <rect x="116" y="250" width="18" height="18"/>
-      <rect x="134" y="250" width="18" height="18"/>
-      <rect x="152" y="250" width="18" height="18"/>
-      <rect x="170" y="250" width="18" height="18"/>
-      <rect x="188" y="250" width="18" height="18"/>
-      <rect x="206" y="250" width="18" height="18"/>
-      <rect x="224" y="250" width="18" height="18"/>
-      <rect x="242" y="250" width="18" height="18"/>
+  <g fill="#4efb72" opacity="0.95" filter="url(#glow)">
+    <g transform="translate(55,180)">
+      <rect x="0" y="0" width="12" height="12"/>
+      <rect x="12" y="0" width="12" height="12"/>
+      <rect x="24" y="0" width="12" height="12"/>
+      <rect x="36" y="0" width="12" height="12"/>
+      <rect x="48" y="0" width="12" height="12"/>
+      <rect x="60" y="0" width="12" height="12"/>
 
-      <rect x="62" y="268" width="18" height="18"/>
-      <rect x="80" y="268" width="18" height="18"/>
-      <rect x="98" y="268" width="18" height="18"/>
-      <rect x="116" y="268" width="18" height="18"/>
-      <rect x="134" y="268" width="18" height="18"/>
-      <rect x="152" y="268" width="18" height="18"/>
-      <rect x="170" y="268" width="18" height="18"/>
-      <rect x="188" y="268" width="18" height="18"/>
-      <rect x="206" y="268" width="18" height="18"/>
-      <rect x="224" y="268" width="18" height="18"/>
-      <rect x="242" y="268" width="18" height="18"/>
+      <rect x="0" y="12" width="12" height="12"/>
+      <rect x="24" y="12" width="12" height="12"/>
+      <rect x="48" y="12" width="12" height="12"/>
+      <rect x="72" y="12" width="12" height="12"/>
+      <rect x="84" y="12" width="12" height="12"/>
 
-      <rect x="62" y="286" width="18" height="18"/>
-      <rect x="80" y="286" width="18" height="18"/>
-      <rect x="98" y="286" width="18" height="18"/>
-      <rect x="116" y="286" width="18" height="18"/>
-      <rect x="134" y="286" width="18" height="18"/>
-      <rect x="152" y="286" width="18" height="18"/>
-      <rect x="170" y="286" width="18" height="18"/>
-      <rect x="188" y="286" width="18" height="18"/>
-      <rect x="206" y="286" width="18" height="18"/>
-      <rect x="224" y="286" width="18" height="18"/>
-      <rect x="242" y="286" width="18" height="18"/>
+      <rect x="0" y="24" width="12" height="12"/>
+      <rect x="12" y="24" width="12" height="12"/>
+      <rect x="24" y="24" width="12" height="12"/>
+      <rect x="36" y="24" width="12" height="12"/>
+      <rect x="48" y="24" width="12" height="12"/>
+      <rect x="60" y="24" width="12" height="12"/>
+      <rect x="72" y="24" width="12" height="12"/>
+      <rect x="84" y="24" width="12" height="12"/>
 
-      <rect x="62" y="304" width="18" height="18"/>
-      <rect x="80" y="304" width="18" height="18"/>
-      <rect x="98" y="304" width="18" height="18"/>
-      <rect x="116" y="304" width="18" height="18"/>
-      <rect x="134" y="304" width="18" height="18"/>
-      <rect x="152" y="304" width="18" height="18"/>
-      <rect x="170" y="304" width="18" height="18"/>
-      <rect x="188" y="304" width="18" height="18"/>
-      <rect x="206" y="304" width="18" height="18"/>
-      <rect x="224" y="304" width="18" height="18"/>
-      <rect x="242" y="304" width="18" height="18"/>
+      <rect x="12" y="36" width="12" height="12"/>
+      <rect x="24" y="36" width="12" height="12"/>
+      <rect x="36" y="36" width="12" height="12"/>
+      <rect x="48" y="36" width="12" height="12"/>
+      <rect x="60" y="36" width="12" height="12"/>
+      <rect x="72" y="36" width="12" height="12"/>
 
-      <rect x="62" y="322" width="18" height="18"/>
-      <rect x="80" y="322" width="18" height="18"/>
-      <rect x="98" y="322" width="18" height="18"/>
-      <rect x="116" y="322" width="18" height="18"/>
-      <rect x="134" y="322" width="18" height="18"/>
-      <rect x="152" y="322" width="18" height="18"/>
-      <rect x="170" y="322" width="18" height="18"/>
-      <rect x="188" y="322" width="18" height="18"/>
-      <rect x="206" y="322" width="18" height="18"/>
-      <rect x="224" y="322" width="18" height="18"/>
-      <rect x="242" y="322" width="18" height="18"/>
+      <rect x="0" y="48" width="12" height="12"/>
+      <rect x="12" y="48" width="12" height="12"/>
+      <rect x="24" y="48" width="12" height="12"/>
+      <rect x="36" y="48" width="12" height="12"/>
+      <rect x="48" y="48" width="12" height="12"/>
+      <rect x="60" y="48" width="12" height="12"/>
+      <rect x="72" y="48" width="12" height="12"/>
+      <rect x="84" y="48" width="12" height="12"/>
+
+      <rect x="12" y="60" width="12" height="12"/>
+      <rect x="24" y="60" width="12" height="12"/>
+      <rect x="36" y="60" width="12" height="12"/>
+      <rect x="48" y="60" width="12" height="12"/>
+      <rect x="60" y="60" width="12" height="12"/>
+      <rect x="72" y="60" width="12" height="12"/>
     </g>
 
-    <g fill="#4efb72">
-      <rect x="1080" y="260" width="18" height="18"/>
-      <rect x="1098" y="260" width="18" height="18"/>
-      <rect x="1116" y="260" width="18" height="18"/>
-      <rect x="1134" y="260" width="18" height="18"/>
-      <rect x="1050" y="278" width="18" height="18"/>
-      <rect x="1068" y="278" width="18" height="18"/>
-      <rect x="1086" y="278" width="18" height="18"/>
-      <rect x="1104" y="278" width="18" height="18"/>
-      <rect x="1122" y="278" width="18" height="18"/>
-      <rect x="1140" y="278" width="18" height="18"/>
-      <rect x="1020" y="296" width="18" height="18"/>
-      <rect x="1038" y="296" width="18" height="18"/>
-      <rect x="1056" y="296" width="18" height="18"/>
-      <rect x="1074" y="296" width="18" height="18"/>
-      <rect x="1092" y="296" width="18" height="18"/>
-      <rect x="1110" y="296" width="18" height="18"/>
-      <rect x="1128" y="296" width="18" height="18"/>
-      <rect x="1146" y="296" width="18" height="18"/>
-      <rect x="1008" y="314" width="18" height="18"/>
-      <rect x="1026" y="314" width="18" height="18"/>
-      <rect x="1044" y="314" width="18" height="18"/>
-      <rect x="1062" y="314" width="18" height="18"/>
-      <rect x="1080" y="314" width="18" height="18"/>
-      <rect x="1098" y="314" width="18" height="18"/>
-      <rect x="1116" y="314" width="18" height="18"/>
-      <rect x="1134" y="314" width="18" height="18"/>
-      <rect x="1026" y="332" width="18" height="18"/>
-      <rect x="1044" y="332" width="18" height="18"/>
-      <rect x="1062" y="332" width="18" height="18"/>
-      <rect x="1080" y="332" width="18" height="18"/>
-      <rect x="1098" y="332" width="18" height="18"/>
-      <rect x="1116" y="332" width="18" height="18"/>
-      <rect x="1044" y="350" width="18" height="18"/>
-      <rect x="1062" y="350" width="18" height="18"/>
-      <rect x="1080" y="350" width="18" height="18"/>
-      <rect x="1098" y="350" width="18" height="18"/>
-      <rect x="1062" y="368" width="18" height="18"/>
-      <rect x="1080" y="368" width="18" height="18"/>
+    <g transform="translate(1020,180)">
+      <rect x="0" y="0" width="12" height="12"/>
+      <rect x="12" y="0" width="12" height="12"/>
+      <rect x="24" y="0" width="12" height="12"/>
+      <rect x="36" y="0" width="12" height="12"/>
+      <rect x="48" y="0" width="12" height="12"/>
+      <rect x="60" y="0" width="12" height="12"/>
+
+      <rect x="0" y="12" width="12" height="12"/>
+      <rect x="24" y="12" width="12" height="12"/>
+      <rect x="48" y="12" width="12" height="12"/>
+      <rect x="72" y="12" width="12" height="12"/>
+      <rect x="84" y="12" width="12" height="12"/>
+
+      <rect x="0" y="24" width="12" height="12"/>
+      <rect x="12" y="24" width="12" height="12"/>
+      <rect x="24" y="24" width="12" height="12"/>
+      <rect x="36" y="24" width="12" height="12"/>
+      <rect x="48" y="24" width="12" height="12"/>
+      <rect x="60" y="24" width="12" height="12"/>
+      <rect x="72" y="24" width="12" height="12"/>
+      <rect x="84" y="24" width="12" height="12"/>
+
+      <rect x="12" y="36" width="12" height="12"/>
+      <rect x="24" y="36" width="12" height="12"/>
+      <rect x="36" y="36" width="12" height="12"/>
+      <rect x="48" y="36" width="12" height="12"/>
+      <rect x="60" y="36" width="12" height="12"/>
+      <rect x="72" y="36" width="12" height="12"/>
+
+      <rect x="0" y="48" width="12" height="12"/>
+      <rect x="12" y="48" width="12" height="12"/>
+      <rect x="24" y="48" width="12" height="12"/>
+      <rect x="36" y="48" width="12" height="12"/>
+      <rect x="48" y="48" width="12" height="12"/>
+      <rect x="60" y="48" width="12" height="12"/>
+      <rect x="72" y="48" width="12" height="12"/>
+      <rect x="84" y="48" width="12" height="12"/>
+
+      <rect x="12" y="60" width="12" height="12"/>
+      <rect x="24" y="60" width="12" height="12"/>
+      <rect x="36" y="60" width="12" height="12"/>
+      <rect x="48" y="60" width="12" height="12"/>
+      <rect x="60" y="60" width="12" height="12"/>
+      <rect x="72" y="60" width="12" height="12"/>
     </g>
 
-    <g fill="#4efb72">
-      <rect x="88" y="932" width="18" height="18"/>
-      <rect x="106" y="932" width="18" height="18"/>
-      <rect x="124" y="932" width="18" height="18"/>
-      <rect x="142" y="932" width="18" height="18"/>
-      <rect x="160" y="932" width="18" height="18"/>
-      <rect x="178" y="932" width="18" height="18"/>
-      <rect x="196" y="932" width="18" height="18"/>
-      <rect x="214" y="932" width="18" height="18"/>
-      <rect x="232" y="932" width="18" height="18"/>
-      <rect x="250" y="932" width="18" height="18"/>
-      <rect x="268" y="932" width="18" height="18"/>
-      <rect x="88" y="950" width="18" height="18"/>
-      <rect x="106" y="950" width="18" height="18"/>
-      <rect x="124" y="950" width="18" height="18"/>
-      <rect x="142" y="950" width="18" height="18"/>
-      <rect x="160" y="950" width="18" height="18"/>
-      <rect x="178" y="950" width="18" height="18"/>
-      <rect x="196" y="950" width="18" height="18"/>
-      <rect x="214" y="950" width="18" height="18"/>
-      <rect x="232" y="950" width="18" height="18"/>
-      <rect x="250" y="950" width="18" height="18"/>
-      <rect x="268" y="950" width="18" height="18"/>
-      <rect x="88" y="968" width="18" height="18"/>
-      <rect x="106" y="968" width="18" height="18"/>
-      <rect x="124" y="968" width="18" height="18"/>
-      <rect x="142" y="968" width="18" height="18"/>
-      <rect x="160" y="968" width="18" height="18"/>
-      <rect x="178" y="968" width="18" height="18"/>
-      <rect x="196" y="968" width="18" height="18"/>
-      <rect x="214" y="968" width="18" height="18"/>
-      <rect x="232" y="968" width="18" height="18"/>
-      <rect x="250" y="968" width="18" height="18"/>
-      <rect x="268" y="968" width="18" height="18"/>
-      <rect x="106" y="986" width="18" height="18"/>
-      <rect x="124" y="986" width="18" height="18"/>
-      <rect x="142" y="986" width="18" height="18"/>
-      <rect x="160" y="986" width="18" height="18"/>
-      <rect x="178" y="986" width="18" height="18"/>
-      <rect x="196" y="986" width="18" height="18"/>
-      <rect x="214" y="986" width="18" height="18"/>
-      <rect x="232" y="986" width="18" height="18"/>
-      <rect x="142" y="1004" width="18" height="18"/>
-      <rect x="160" y="1004" width="18" height="18"/>
-      <rect x="178" y="1004" width="18" height="18"/>
-      <rect x="196" y="1004" width="18" height="18"/>
-      <rect x="214" y="1004" width="18" height="18"/>
+    <g transform="translate(60,900)">
+      <rect x="0" y="0" width="12" height="12"/>
+      <rect x="12" y="0" width="12" height="12"/>
+      <rect x="24" y="0" width="12" height="12"/>
+      <rect x="36" y="0" width="12" height="12"/>
+      <rect x="48" y="0" width="12" height="12"/>
+      <rect x="60" y="0" width="12" height="12"/>
+      <rect x="72" y="0" width="12" height="12"/>
+      <rect x="84" y="0" width="12" height="12"/>
+      <rect x="96" y="0" width="12" height="12"/>
+      <rect x="108" y="0" width="12" height="12"/>
+
+      <rect x="0" y="12" width="12" height="12"/>
+      <rect x="36" y="12" width="12" height="12"/>
+      <rect x="72" y="12" width="12" height="12"/>
+      <rect x="108" y="12" width="12" height="12"/>
+
+      <rect x="0" y="24" width="12" height="12"/>
+      <rect x="12" y="24" width="12" height="12"/>
+      <rect x="24" y="24" width="12" height="12"/>
+      <rect x="36" y="24" width="12" height="12"/>
+      <rect x="48" y="24" width="12" height="12"/>
+      <rect x="60" y="24" width="12" height="12"/>
+      <rect x="72" y="24" width="12" height="12"/>
+      <rect x="84" y="24" width="12" height="12"/>
+      <rect x="96" y="24" width="12" height="12"/>
+      <rect x="108" y="24" width="12" height="12"/>
+
+      <rect x="0" y="36" width="12" height="12"/>
+      <rect x="12" y="36" width="12" height="12"/>
+      <rect x="24" y="36" width="12" height="12"/>
+      <rect x="36" y="36" width="12" height="12"/>
+      <rect x="48" y="36" width="12" height="12"/>
+      <rect x="60" y="36" width="12" height="12"/>
+      <rect x="72" y="36" width="12" height="12"/>
+      <rect x="84" y="36" width="12" height="12"/>
+      <rect x="96" y="36" width="12" height="12"/>
+      <rect x="108" y="36" width="12" height="12"/>
+
+      <rect x="12" y="48" width="12" height="12"/>
+      <rect x="36" y="48" width="12" height="12"/>
+      <rect x="60" y="48" width="12" height="12"/>
+      <rect x="84" y="48" width="12" height="12"/>
+
+      <rect x="0" y="60" width="12" height="12"/>
+      <rect x="12" y="60" width="12" height="12"/>
+      <rect x="24" y="60" width="12" height="12"/>
+      <rect x="36" y="60" width="12" height="12"/>
+      <rect x="48" y="60" width="12" height="12"/>
+      <rect x="60" y="60" width="12" height="12"/>
+      <rect x="72" y="60" width="12" height="12"/>
+      <rect x="84" y="60" width="12" height="12"/>
+      <rect x="96" y="60" width="12" height="12"/>
+      <rect x="108" y="60" width="12" height="12"/>
     </g>
 
-    <g fill="#4efb72">
-      <rect x="1020" y="980" width="18" height="18"/>
-      <rect x="1038" y="980" width="18" height="18"/>
-      <rect x="1056" y="980" width="18" height="18"/>
-      <rect x="1074" y="980" width="18" height="18"/>
-      <rect x="1092" y="980" width="18" height="18"/>
-      <rect x="1110" y="980" width="18" height="18"/>
-      <rect x="1128" y="980" width="18" height="18"/>
-      <rect x="1146" y="980" width="18" height="18"/>
-      <rect x="1002" y="998" width="18" height="18"/>
-      <rect x="1020" y="998" width="18" height="18"/>
-      <rect x="1038" y="998" width="18" height="18"/>
-      <rect x="1056" y="998" width="18" height="18"/>
-      <rect x="1074" y="998" width="18" height="18"/>
-      <rect x="1092" y="998" width="18" height="18"/>
-      <rect x="1110" y="998" width="18" height="18"/>
-      <rect x="1128" y="998" width="18" height="18"/>
-      <rect x="1146" y="998" width="18" height="18"/>
-      <rect x="1002" y="1016" width="18" height="18"/>
-      <rect x="1020" y="1016" width="18" height="18"/>
-      <rect x="1038" y="1016" width="18" height="18"/>
-      <rect x="1056" y="1016" width="18" height="18"/>
-      <rect x="1074" y="1016" width="18" height="18"/>
-      <rect x="1092" y="1016" width="18" height="18"/>
-      <rect x="1110" y="1016" width="18" height="18"/>
-      <rect x="1128" y="1016" width="18" height="18"/>
-      <rect x="1020" y="1034" width="18" height="18"/>
-      <rect x="1038" y="1034" width="18" height="18"/>
-      <rect x="1056" y="1034" width="18" height="18"/>
-      <rect x="1074" y="1034" width="18" height="18"/>
-      <rect x="1092" y="1034" width="18" height="18"/>
-      <rect x="1110" y="1034" width="18" height="18"/>
-      <rect x="1038" y="1052" width="18" height="18"/>
-      <rect x="1056" y="1052" width="18" height="18"/>
-      <rect x="1074" y="1052" width="18" height="18"/>
-      <rect x="1092" y="1052" width="18" height="18"/>
-      <rect x="1056" y="1070" width="18" height="18"/>
-      <rect x="1074" y="1070" width="18" height="18"/>
+    <g transform="translate(1020,935)">
+      <rect x="0" y="0" width="12" height="12"/>
+      <rect x="12" y="0" width="12" height="12"/>
+      <rect x="24" y="0" width="12" height="12"/>
+      <rect x="36" y="0" width="12" height="12"/>
+      <rect x="48" y="0" width="12" height="12"/>
+      <rect x="60" y="0" width="12" height="12"/>
+      <rect x="72" y="0" width="12" height="12"/>
+      <rect x="84" y="0" width="12" height="12"/>
+      <rect x="96" y="0" width="12" height="12"/>
+      <rect x="108" y="0" width="12" height="12"/>
+
+      <rect x="0" y="12" width="12" height="12"/>
+      <rect x="36" y="12" width="12" height="12"/>
+      <rect x="72" y="12" width="12" height="12"/>
+      <rect x="108" y="12" width="12" height="12"/>
+
+      <rect x="0" y="24" width="12" height="12"/>
+      <rect x="12" y="24" width="12" height="12"/>
+      <rect x="24" y="24" width="12" height="12"/>
+      <rect x="36" y="24" width="12" height="12"/>
+      <rect x="48" y="24" width="12" height="12"/>
+      <rect x="60" y="24" width="12" height="12"/>
+      <rect x="72" y="24" width="12" height="12"/>
+      <rect x="84" y="24" width="12" height="12"/>
+      <rect x="96" y="24" width="12" height="12"/>
+      <rect x="108" y="24" width="12" height="12"/>
+
+      <rect x="0" y="36" width="12" height="12"/>
+      <rect x="12" y="36" width="12" height="12"/>
+      <rect x="24" y="36" width="12" height="12"/>
+      <rect x="36" y="36" width="12" height="12"/>
+      <rect x="48" y="36" width="12" height="12"/>
+      <rect x="60" y="36" width="12" height="12"/>
+      <rect x="72" y="36" width="12" height="12"/>
+      <rect x="84" y="36" width="12" height="12"/>
+      <rect x="96" y="36" width="12" height="12"/>
+      <rect x="108" y="36" width="12" height="12"/>
+
+      <rect x="12" y="48" width="12" height="12"/>
+      <rect x="36" y="48" width="12" height="12"/>
+      <rect x="60" y="48" width="12" height="12"/>
+      <rect x="84" y="48" width="12" height="12"/>
+
+      <rect x="0" y="60" width="12" height="12"/>
+      <rect x="12" y="60" width="12" height="12"/>
+      <rect x="24" y="60" width="12" height="12"/>
+      <rect x="36" y="60" width="12" height="12"/>
+      <rect x="48" y="60" width="12" height="12"/>
+      <rect x="60" y="60" width="12" height="12"/>
+      <rect x="72" y="60" width="12" height="12"/>
+      <rect x="84" y="60" width="12" height="12"/>
+      <rect x="96" y="60" width="12" height="12"/>
+      <rect x="108" y="60" width="12" height="12"/>
     </g>
   </g>
 
   <g>
-    <text x="100" y="85" fill="#ffffff" font-size="16" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.3">
-      Ministry of Digital
-    </text>
-    <text x="100" y="106" fill="#ffffff" font-size="16" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.3">
-      Development and Mass
-    </text>
-    <text x="100" y="127" fill="#ffffff" font-size="16" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.3">
-      Communications of the
-    </text>
-    <text x="100" y="148" fill="#ffffff" font-size="16" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.3">
-      Russian Federation
+    <rect x="260" y="55" width="680" height="52" fill="#0f1419" stroke="#dfe7ef" stroke-width="2"/>
+    <text x="600" y="90" fill="#e9eef3" font-size="21" font-family="Arial, sans-serif" font-weight="700" letter-spacing="3" text-anchor="middle">
+      DIGITAL PORTFOLIO
     </text>
 
-    <g>
-      <rect x="455" y="58" width="280" height="42" fill="#111418" stroke="#ffffff" stroke-width="2"/>
-      <text x="595" y="86" text-anchor="middle" fill="#ffffff" font-size="25" font-family="Arial, sans-serif" font-weight="700" letter-spacing="1.5">
-        DIGITAL FUTURE
-      </text>
-    </g>
-
-    <g>
-      <rect x="760" y="58" width="245" height="42" fill="#4efb72"/>
-      <text x="882" y="86" text-anchor="middle" fill="#111418" font-size="19" font-family="Arial, sans-serif" font-weight="900" letter-spacing="1.2">
-        SEASON: AI
-      </text>
-    </g>
-
-    <text x="1020" y="100" fill="#ffffff" font-size="22" font-family="Arial, sans-serif" font-weight="700" text-anchor="end" letter-spacing="1.2">
-      RUSSIA —
+    <rect x="760" y="55" width="180" height="52" fill="#4efb72"/>
+    <text x="850" y="90" fill="#0e1218" font-size="18" font-family="Arial, sans-serif" font-weight="900" letter-spacing="1.3" text-anchor="middle">
+      FULLSTACK
     </text>
-    <text x="1020" y="128" fill="#ffffff" font-size="22" font-family="Arial, sans-serif" font-weight="700" text-anchor="end" letter-spacing="1.2">
-      COUNTRY OF OPPORTUNITIES
+
+    <text x="1050" y="86" fill="#e9eef3" font-size="20" font-family="Arial, sans-serif" font-weight="700" text-anchor="end" letter-spacing="1.2">
+      BUILD • SHIP • IMPROVE
     </text>
   </g>
 
   <g>
-    <text x="600" y="330" text-anchor="middle" fill="#f3f3f3" font-size="74" font-family="Arial, sans-serif" font-weight="900" letter-spacing="2">
-      CERTIFICATE
-    </text>
-    <text x="600" y="410" text-anchor="middle" fill="#f3f3f3" font-size="74" font-family="Arial, sans-serif" font-weight="900" letter-spacing="2">
-      OF PARTICIPATION
-    </text>
+    <circle cx="150" cy="250" r="78" fill="#4efb72"/>
+    <circle cx="150" cy="250" r="70" fill="#0f1419" opacity="0.95"/>
+    <text x="150" y="260" fill="#4efb72" font-size="38" font-family="Arial, sans-serif" font-weight="900" text-anchor="middle">S</text>
+  </g>
 
-    <text x="600" y="500" text-anchor="middle" fill="#f3f3f3" font-size="28" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.5">
-      of the round table “Digital Future. Season: Artificial Intelligence (2024)”
-    </text>
-
-    <text x="600" y="610" text-anchor="middle" fill="#4efb72" font-size="92" font-family="Arial, sans-serif" font-weight="900" letter-spacing="2">
+  <g>
+    <text x="600" y="320" fill="#f2f6fa" font-size="74" font-family="Arial, sans-serif" font-weight="900" letter-spacing="2" text-anchor="middle">
       SELNEKER
     </text>
-
-    <text x="600" y="720" text-anchor="middle" fill="#f3f3f3" font-size="26" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.4">
-      General Director
-    </text>
-    <text x="600" y="752" text-anchor="middle" fill="#f3f3f3" font-size="26" font-family="Arial, sans-serif" font-weight="700" letter-spacing="0.4">
-      of ANO “Russia — Country of Opportunities”
+    <text x="600" y="390" fill="#4efb72" font-size="34" font-family="Arial, sans-serif" font-weight="700" letter-spacing="3" text-anchor="middle">
+      FULL-STACK DEVELOPER
     </text>
 
-    <path d="M 780 790 C 860 790, 930 820, 980 790" stroke="#a8beff" stroke-width="3" fill="none"/>
-    <text x="610" y="830" text-anchor="middle" fill="#4efb72" font-size="26" font-family="Arial, sans-serif" font-weight="800" letter-spacing="1.2">
-      A. G. KOMISSAROV
+    <text x="600" y="470" fill="#dfe8f3" font-size="27" font-family="Arial, sans-serif" font-weight="600" text-anchor="middle">
+      I build modern web experiences, product tools, and clean digital systems.
+    </text>
+    <text x="600" y="510" fill="#dfe8f3" font-size="27" font-family="Arial, sans-serif" font-weight="600" text-anchor="middle">
+      I design with purpose, code with clarity, and ship what people can use.
     </text>
   </g>
 
   <g>
-    <text x="260" y="1025" text-anchor="middle" fill="#f3f3f3" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="1.2">
-      25.10.2024 — 27.10.2024
+    <rect x="150" y="620" width="900" height="170" fill="#0f1419" stroke="#29353d" stroke-width="2"/>
+    <text x="185" y="670" fill="#4efb72" font-size="24" font-family="Arial, sans-serif" font-weight="800" letter-spacing="2">
+      ABOUT ME
     </text>
-    <text x="260" y="1060" text-anchor="middle" fill="#f3f3f3" font-size="26" font-family="Arial, sans-serif" font-weight="600" letter-spacing="0.6">
-      Privolzhsky Federal District
+    <text x="185" y="715" fill="#e9eef3" font-size="22" font-family="Arial, sans-serif" font-weight="500">
+      I create practical products across frontend, backend, and user experience.
+    </text>
+    <text x="185" y="750" fill="#e9eef3" font-size="22" font-family="Arial, sans-serif" font-weight="500">
+      My focus is on interfaces that feel simple, tools that solve real problems, and code that scales.
     </text>
   </g>
 
-  <g transform="translate(865 960)">
-    <rect x="0" y="0" width="220" height="220" fill="#f1f1f1"/>
-    <g fill="#111418">
-      <rect x="14" y="14" width="15" height="15"/>
-      <rect x="29" y="14" width="15" height="15"/>
-      <rect x="44" y="14" width="15" height="15"/>
-      <rect x="59" y="14" width="15" height="15"/>
-      <rect x="74" y="14" width="15" height="15"/>
-      <rect x="89" y="14" width="15" height="15"/>
-      <rect x="104" y="14" width="15" height="15"/>
-      <rect x="119" y="14" width="15" height="15"/>
-      <rect x="134" y="14" width="15" height="15"/>
-      <rect x="149" y="14" width="15" height="15"/>
-      <rect x="164" y="14" width="15" height="15"/>
-      <rect x="179" y="14" width="15" height="15"/>
+  <g>
+    <text x="150" y="845" fill="#4efb72" font-size="28" font-family="Arial, sans-serif" font-weight="800" letter-spacing="2">
+      PROJECTS
+    </text>
 
-      <rect x="14" y="29" width="15" height="15"/>
-      <rect x="74" y="29" width="15" height="15"/>
-      <rect x="134" y="29" width="15" height="15"/>
-      <rect x="179" y="29" width="15" height="15"/>
+    <rect x="150" y="875" width="260" height="170" fill="#0f1419" stroke="#2b3841" stroke-width="2"/>
+    <rect x="470" y="875" width="260" height="170" fill="#0f1419" stroke="#2b3841" stroke-width="2"/>
+    <rect x="790" y="875" width="260" height="170" fill="#0f1419" stroke="#2b3841" stroke-width="2"/>
 
-      <rect x="14" y="44" width="15" height="15"/>
-      <rect x="29" y="44" width="15" height="15"/>
-      <rect x="44" y="44" width="15" height="15"/>
-      <rect x="74" y="44" width="15" height="15"/>
-      <rect x="89" y="44" width="15" height="15"/>
-      <rect x="104" y="44" width="15" height="15"/>
-      <rect x="134" y="44" width="15" height="15"/>
-      <rect x="149" y="44" width="15" height="15"/>
-      <rect x="164" y="44" width="15" height="15"/>
-      <rect x="179" y="44" width="15" height="15"/>
+    <text x="175" y="920" fill="#f2f6fa" font-size="24" font-family="Arial, sans-serif" font-weight="800">
+      active-dev-badge
+    </text>
+    <text x="175" y="955" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      Developer badge project
+    </text>
+    <text x="175" y="990" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      with clean identity branding.
+    </text>
 
-      <rect x="14" y="59" width="15" height="15"/>
-      <rect x="44" y="59" width="15" height="15"/>
-      <rect x="74" y="59" width="15" height="15"/>
-      <rect x="104" y="59" width="15" height="15"/>
-      <rect x="134" y="59" width="15" height="15"/>
-      <rect x="164" y="59" width="15" height="15"/>
-      <rect x="179" y="59" width="15" height="15"/>
+    <text x="495" y="920" fill="#f2f6fa" font-size="24" font-family="Arial, sans-serif" font-weight="800">
+      pubg-mobile-id2name
+    </text>
+    <text x="495" y="955" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      API and data lookup tool
+    </text>
+    <text x="495" y="990" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      for player search and caching.
+    </text>
 
-      <rect x="14" y="74" width="15" height="15"/>
-      <rect x="29" y="74" width="15" height="15"/>
-      <rect x="44" y="74" width="15" height="15"/>
-      <rect x="59" y="74" width="15" height="15"/>
-      <rect x="74" y="74" width="15" height="15"/>
-      <rect x="89" y="74" width="15" height="15"/>
-      <rect x="104" y="74" width="15" height="15"/>
-      <rect x="119" y="74" width="15" height="15"/>
-      <rect x="134" y="74" width="15" height="15"/>
-      <rect x="149" y="74" width="15" height="15"/>
-      <rect x="164" y="74" width="15" height="15"/>
-      <rect x="179" y="74" width="15" height="15"/>
+    <text x="815" y="920" fill="#f2f6fa" font-size="24" font-family="Arial, sans-serif" font-weight="800">
+      magicgamestore
+    </text>
+    <text x="815" y="955" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      Storefront and product
+    </text>
+    <text x="815" y="990" fill="#d9e3ec" font-size="18" font-family="Arial, sans-serif" font-weight="500">
+      experience concept.
+    </text>
+  </g>
 
-      <rect x="14" y="89" width="15" height="15"/>
-      <rect x="44" y="89" width="15" height="15"/>
-      <rect x="74" y="89" width="15" height="15"/>
-      <rect x="104" y="89" width="15" height="15"/>
-      <rect x="134" y="89" width="15" height="15"/>
-      <rect x="164" y="89" width="15" height="15"/>
-      <rect x="179" y="89" width="15" height="15"/>
+  <g>
+    <text x="150" y="1095" fill="#4efb72" font-size="28" font-family="Arial, sans-serif" font-weight="800" letter-spacing="2">
+      STACK
+    </text>
 
-      <rect x="14" y="104" width="15" height="15"/>
-      <rect x="29" y="104" width="15" height="15"/>
-      <rect x="44" y="104" width="15" height="15"/>
-      <rect x="74" y="104" width="15" height="15"/>
-      <rect x="89" y="104" width="15" height="15"/>
-      <rect x="104" y="104" width="15" height="15"/>
-      <rect x="134" y="104" width="15" height="15"/>
-      <rect x="149" y="104" width="15" height="15"/>
-      <rect x="164" y="104" width="15" height="15"/>
-      <rect x="179" y="104" width="15" height="15"/>
-
-      <rect x="14" y="119" width="15" height="15"/>
-      <rect x="74" y="119" width="15" height="15"/>
-      <rect x="134" y="119" width="15" height="15"/>
-      <rect x="179" y="119" width="15" height="15"/>
-
-      <rect x="14" y="134" width="15" height="15"/>
-      <rect x="29" y="134" width="15" height="15"/>
-      <rect x="44" y="134" width="15" height="15"/>
-      <rect x="59" y="134" width="15" height="15"/>
-      <rect x="74" y="134" width="15" height="15"/>
-      <rect x="89" y="134" width="15" height="15"/>
-      <rect x="104" y="134" width="15" height="15"/>
-      <rect x="119" y="134" width="15" height="15"/>
-      <rect x="134" y="134" width="15" height="15"/>
-      <rect x="149" y="134" width="15" height="15"/>
-      <rect x="164" y="134" width="15" height="15"/>
-      <rect x="179" y="134" width="15" height="15"/>
-
-      <rect x="14" y="149" width="15" height="15"/>
-      <rect x="44" y="149" width="15" height="15"/>
-      <rect x="74" y="149" width="15" height="15"/>
-      <rect x="104" y="149" width="15" height="15"/>
-      <rect x="134" y="149" width="15" height="15"/>
-      <rect x="164" y="149" width="15" height="15"/>
-      <rect x="179" y="149" width="15" height="15"/>
-
-      <rect x="14" y="164" width="15" height="15"/>
-      <rect x="29" y="164" width="15" height="15"/>
-      <rect x="44" y="164" width="15" height="15"/>
-      <rect x="74" y="164" width="15" height="15"/>
-      <rect x="89" y="164" width="15" height="15"/>
-      <rect x="104" y="164" width="15" height="15"/>
-      <rect x="134" y="164" width="15" height="15"/>
-      <rect x="149" y="164" width="15" height="15"/>
-      <rect x="164" y="164" width="15" height="15"/>
-      <rect x="179" y="164" width="15" height="15"/>
-
-      <rect x="14" y="179" width="15" height="15"/>
-      <rect x="74" y="179" width="15" height="15"/>
-      <rect x="134" y="179" width="15" height="15"/>
-      <rect x="179" y="179" width="15" height="15"/>
+    <g fill="#0f1419" stroke="#2b3841" stroke-width="2">
+      <rect x="150" y="1120" width="120" height="56"/>
+      <rect x="285" y="1120" width="120" height="56"/>
+      <rect x="420" y="1120" width="120" height="56"/>
+      <rect x="555" y="1120" width="120" height="56"/>
+      <rect x="690" y="1120" width="120" height="56"/>
+      <rect x="825" y="1120" width="120" height="56"/>
+      <rect x="960" y="1120" width="120" height="56"/>
     </g>
+
+    <g fill="#e9eef3" font-size="18" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+      <text x="210" y="1155">JS</text>
+      <text x="345" y="1155">TS</text>
+      <text x="480" y="1155">NEXT</text>
+      <text x="615" y="1155">REACT</text>
+      <text x="750" y="1155">NODE</text>
+      <text x="885" y="1155">PHP</text>
+      <text x="1020" y="1155">SQL</text>
+    </g>
+  </g>
+
+  <g>
+    <text x="150" y="1245" fill="#dfe8f3" font-size="20" font-family="Arial, sans-serif" font-weight="600">
+      GitHub: github.com/selneker
+    </text>
+    <text x="700" y="1245" fill="#dfe8f3" font-size="20" font-family="Arial, sans-serif" font-weight="600">
+      Portfolio: selneker.dev / github.com/selneker
+    </text>
   </g>
 </svg>
 
 <p align="center">
-  <i>English version inspired by the original certificate style.</i>
+  <a href="https://github.com/selneker">GitHub</a>
+  ·
+  <a href="https://github.com/selneker?tab=repositories">Projects</a>
+  ·
+  <a href="mailto:selneker@outlook.com">Contact</a>
 </p>
