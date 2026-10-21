@@ -37,7 +37,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/telegram-@selneker-161817?style=for-the-badge&logo=telegram&logoColor=00E676"/>
-  <img src="https://img.shields.io/badge/email-selneker%40example.com-161817?style=for-the-badge&logo=mail.ru&logoColor=00E676"/>
+  <img src="https://img.shields.io/badge/email-selneker%40gmail.com-161817?style=for-the-badge&logo=mail.ru&logoColor=00E676"/>
   <br/><br/>
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https%3A%2F%2Fgithub.com%2Fselneker&color=ffffff&bgcolor=161817" alt="QR → github.com/selneker"/>
 </div>
